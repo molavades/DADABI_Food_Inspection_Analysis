@@ -25,6 +25,7 @@ These datasets include fields such as inspection types, inspection scores, viola
 ---
 
 ## Dimensional Model  
+![image](https://github.com/user-attachments/assets/2a9ac1d1-6811-4def-bfe8-f4e4d0e6ebdf)
 
 The model follows a **Star Schema** design and includes the following components:  
 
@@ -92,14 +93,6 @@ The model follows a **Star Schema** design and includes the following components
 - **Database**: Star Schema implemented in **SQL Server/PostgreSQL**.  
 - **Visualization**: Tableau or Power BI for dashboards and insights.  
 - **Data Profiling**: Alteryx for profiling raw data from source systems.  
-
----
-
-## Dimensional Model Diagram  
-
-The following diagram represents the **Star Schema Dimensional Model** used for this project:
-
-![Dimensional Model](./image.png)
 
 ---
 
